@@ -111,5 +111,20 @@ body{
     color: var(--Grayishblue);
     margin: 15px 0px 30px 0px;
 }
+/* Attribution */
+.attribution{
+    position: fixed;
+    bottom: 5px;
+    color: var(--White);
+    font-size: 14px;
+    text-align: center;
+}
+.attribution > a{
+    text-decoration: none;
+    color: var(--Darkblue);
+    font-size: 14px;
+    text-align: center;
+}
+
 
   }
